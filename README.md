@@ -23,7 +23,7 @@ Check with: `python --version`
 
 ```bash
 # 1. Clone the project
-git clone https://github.com/oguadinma-favour/inventory-adjustment-api.git
+git clone https://github.com/Favour959/inventory-adjustment-api.git
 cd inventory-adjustment-api
 
 # 2. Create and activate a virtual environment
